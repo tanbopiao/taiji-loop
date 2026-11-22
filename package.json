@@ -1,0 +1,11 @@
+{
+  "name": "taiji-loop",
+  "version": "0.1.0",
+  "description": "太极 · 红蓝对抗进化循环：六引擎同源判定 + 70发弹药库 + 可机验达标基线",
+  "type": "commonjs",
+  "main": "engine/taiji.js",
+  "scripts": {
+    "drill": "node run.js"
+  },
+  "license": "Apache-2.0"
+}
